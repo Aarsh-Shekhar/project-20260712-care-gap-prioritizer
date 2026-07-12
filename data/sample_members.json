@@ -1,0 +1,146 @@
+[
+  {
+    "id": "member-001",
+    "exposure": 69892,
+    "signal": 0.638,
+    "urgency": 1
+  },
+  {
+    "id": "member-002",
+    "exposure": 67137,
+    "signal": 0.179,
+    "urgency": 8
+  },
+  {
+    "id": "member-003",
+    "exposure": 22917,
+    "signal": 0.507,
+    "urgency": 9
+  },
+  {
+    "id": "member-004",
+    "exposure": 73588,
+    "signal": 0.767,
+    "urgency": 4
+  },
+  {
+    "id": "member-005",
+    "exposure": 70303,
+    "signal": 0.609,
+    "urgency": 7
+  },
+  {
+    "id": "member-006",
+    "exposure": 63485,
+    "signal": 0.484,
+    "urgency": 6
+  },
+  {
+    "id": "member-007",
+    "exposure": 53336,
+    "signal": 0.617,
+    "urgency": 8
+  },
+  {
+    "id": "member-008",
+    "exposure": 89445,
+    "signal": 0.557,
+    "urgency": 4
+  },
+  {
+    "id": "member-009",
+    "exposure": 60741,
+    "signal": 0.598,
+    "urgency": 7
+  },
+  {
+    "id": "member-010",
+    "exposure": 37941,
+    "signal": 0.181,
+    "urgency": 1
+  },
+  {
+    "id": "member-011",
+    "exposure": 38645,
+    "signal": 0.855,
+    "urgency": 7
+  },
+  {
+    "id": "member-012",
+    "exposure": 20862,
+    "signal": 0.494,
+    "urgency": 7
+  },
+  {
+    "id": "member-013",
+    "exposure": 35961,
+    "signal": 0.269,
+    "urgency": 9
+  },
+  {
+    "id": "member-014",
+    "exposure": 8649,
+    "signal": 0.445,
+    "urgency": 5
+  },
+  {
+    "id": "member-015",
+    "exposure": 27840,
+    "signal": 0.656,
+    "urgency": 9
+  },
+  {
+    "id": "member-016",
+    "exposure": 39670,
+    "signal": 0.553,
+    "urgency": 2
+  },
+  {
+    "id": "member-017",
+    "exposure": 2013,
+    "signal": 0.155,
+    "urgency": 6
+  },
+  {
+    "id": "member-018",
+    "exposure": 69957,
+    "signal": 0.93,
+    "urgency": 9
+  },
+  {
+    "id": "member-019",
+    "exposure": 8712,
+    "signal": 0.29,
+    "urgency": 2
+  },
+  {
+    "id": "member-020",
+    "exposure": 81477,
+    "signal": 0.477,
+    "urgency": 3
+  },
+  {
+    "id": "member-021",
+    "exposure": 74857,
+    "signal": 0.701,
+    "urgency": 8
+  },
+  {
+    "id": "member-022",
+    "exposure": 12280,
+    "signal": 0.674,
+    "urgency": 6
+  },
+  {
+    "id": "member-023",
+    "exposure": 38493,
+    "signal": 0.122,
+    "urgency": 5
+  },
+  {
+    "id": "member-024",
+    "exposure": 15561,
+    "signal": 0.341,
+    "urgency": 9
+  }
+]
